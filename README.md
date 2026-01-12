@@ -43,8 +43,7 @@ The goal is to support NGOs, schools, and education-focused organizations with d
 ## Documentation
 A detailed explanation of the analytical approach and data preparation steps is available in the [Methodology](documentation/methodology.md).
 
-
-  
+---
 
  2. ## Key Visualizations
 *The following visual analyses were created using Matplotlib and Seaborn:*
@@ -77,6 +76,16 @@ A detailed explanation of the analytical approach and data preparation steps is 
       - Low academic performance
   * This group should be prioritized for targeted interventions.*
  
+  ---
+
+## Project Documentation
+
+**Analysis Notebook**  
+- [School Wellbeing & Performance Analysis (Jupyter Notebook)](notebooks/School_Wellbeing_Perfomance_Project_Portfolio.ipynb)
+
+ **Methodology**  
+- [Data Cleaning, Analysis & Modelling Methodology](documentation/methodology.md)
+
   ---
 
   ## Tools Used
