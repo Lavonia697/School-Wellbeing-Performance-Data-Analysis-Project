@@ -40,6 +40,11 @@ The goal is to support NGOs, schools, and education-focused organizations with d
      -  *Concern_Flag* - flags learners at risk based on attendance, income, and            mental health
 
   ---
+## Documentation
+A detailed explanation of the analytical approach and data preparation steps is available in the [Methodology](documentation/methodology.md).
+
+
+  
 
  2. ## Key Visualizations
 *The following visual analyses were created using Matplotlib and Seaborn:*
