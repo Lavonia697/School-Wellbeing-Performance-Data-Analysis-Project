@@ -81,7 +81,7 @@ A detailed explanation of the analytical approach and data preparation steps is 
 ## Project Documentation
 
  **Analysis Notebook**  
-- [School Wellbeing & Performance Analysis (Jupyter Notebook)](notebooks/School_Wellbeing_Project_Portfolio.ipynb)
+- [School Wellbeing & Performance Analysis (Jupyter Notebook)](notebooks/School_Wellbeing_Performance_Project_Portfolio(2).ipynb)
 
  **Methodology Document**  
 - [Data Cleaning & Analytical Methodology](Documentation/methodology.md)
