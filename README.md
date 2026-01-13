@@ -1,4 +1,4 @@
-# School-Wellbeing-Performance-Data-Analysis-Project
+# School Wellbeing & Performance Analysis Project
 
 An end-to-end Python data analytics project exploring factors influencing learner performance and wellbeing.
 
@@ -81,7 +81,7 @@ A detailed explanation of the analytical approach and data preparation steps is 
 ## Project Documentation
 
  **Analysis Notebook**  
-- [School-Wellbeing-Performance-Data-Analysis-Project (Jupyter Notebook)](notebooks/School_Wellbeing_Perfomance_Project_Portfolio.ipynb)
+- [School Wellbeing & Performance Analysis Project (Jupyter Notebook)](notebooks/School_Wellbeing_Perfomance_Project_Portfolio .ipynb)
 
  **Methodology Document**  
 - [Data Cleaning & Analytical Methodology](Documentation/methodology.md)
