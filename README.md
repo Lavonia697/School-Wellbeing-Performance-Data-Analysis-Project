@@ -5,7 +5,7 @@ An end-to-end Python data analytics project exploring factors influencing learne
 ---
 
 ## Project Overview
-This project analyzes school performance using real-world educational and wellbeing indicators to understand how non-academic factors influencing learner outcomes.
+This project analyzes school performance using real-world educational and wellbeing indicators to understand how non-academic factors influences learner outcomes.
 
 *Key indicators include:*
 - Attendance rate
@@ -22,22 +22,17 @@ The goal is to support NGOs, schools, and education-focused organizations with d
 ## Analysis Workflow
 1. Data ingestion and inspection
 2. Data cleaning and preprocessing in Python
-3. Feature engineering and risk flag creation
-4. Exploratory data analysis (EDA)
-5. Visualization of key wellbeing-performance relationships
-6. Insights generation and recommendations
+3. Exploratory data analysis (EDA)
+4. Visualization of key wellbeing-performance relationships
+5. Insights generation and recommendations
 
 ---
 
-1. ## Data Cleaning & Feature Engineering
+1. ## Data Cleaning
    ### Key steps performed in Python:
    - Removal of duplicate records
    - Handling missing values using median and mode strategies
    - Standardization of column names and data types
-   - Feature engineering:
-       - *Performance_Level*- categorized learners into low, medium, and high              performance
-      -  *Socioeconomic_Index* - composite indicator derived from household                 income variables
-     -  *Concern_Flag* - flags learners at risk based on attendance, income, and            mental health
 
   ---
 ## Documentation
@@ -100,7 +95,7 @@ A detailed explanation of the analytical approach and data preparation steps is 
 
 ### Reproducibility
 The analysis can be reproduced by running the Jupyter notebook in sequence. 
-All data cleaning, feature engineering, and visualizations are fully documented within the notebook.
+All data cleaning and visualizations are fully documented within the notebook.
 
 
 
@@ -113,8 +108,10 @@ All data cleaning, feature engineering, and visualizations are fully documented 
 
 ---
 
-## Author
+## Author: Lavonia Munedzimwe
 Data Entry Specialist | Junior Data Analyst
+✉️ lavoniamandi@icloud.com | 🔗 https://www.linkedin.com/in/lavonia-munedzimwe-a89221294/
+
 
 
 
