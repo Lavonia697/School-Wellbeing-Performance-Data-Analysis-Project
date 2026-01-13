@@ -86,9 +86,6 @@ A detailed explanation of the analytical approach and data preparation steps is 
  **Methodology Document**  
 - [Data Cleaning & Analytical Methodology](Documentation/methodology.md)
 
-
-
-
   ---
 
   ## Tools Used
@@ -100,6 +97,12 @@ A detailed explanation of the analytical approach and data preparation steps is 
   - Jupyter Notebook
  
 ---
+
+### Reproducibility
+The analysis can be reproduced by running the Jupyter notebook in sequence. 
+All data cleaning, feature engineering, and visualizations are fully documented within the notebook.
+
+
 
 ## Project Impact
 *This analysis helps education-focused organizations:*
