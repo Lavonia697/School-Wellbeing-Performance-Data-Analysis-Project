@@ -41,7 +41,7 @@ The goal is to support NGOs, schools, and education-focused organizations with d
 
   ---
 ## Documentation
-A detailed explanation of the analytical approach and data preparation steps is available in the [Methodology](documentation/methodology.md).
+A detailed explanation of the analytical approach and data preparation steps is available in the [Documentation](documentation/methodology.md).
 
 ---
 
